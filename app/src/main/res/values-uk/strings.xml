@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game In: Мобільний додаток</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Налаштування</string>
+
+    <string name="menu_home">Game In: Мобільний додаток</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_profile">Профіль</string>
+    <string name="rewards">Нагороди</string>
+    <string name="achievements">Досягнення</string>
+    <string name="quests">Завдання</string>
+    <string name="raitings">Рейтинги</string>
+    <string name="about_us">Про нас</string>
+    <string name="settings">Налаштування</string>
+    <string name="info">Дод. Інформація</string>
+    <string name="log_out">Вийти</string>
+
+    <string name="gamein">GameIn</string>
+    <string name="login">Логін:</string>
+    <string name="password">Пароль:</string>
+    <string name="log_in">Увійти</string>
+    <string name="language">Мова:</string>
+    <string name="confirm">Підтвердити</string>
+    <string name="achv_req">Вимоги: </string>
+    <string name="achv_goal">Ціль:\n</string>
+    <string name="achv_step">Крок:\n</string>
+    <string name="achv_reward">Нагорода:\n</string>
+    <string name="achv_exp">Отримуване exp:\n</string>
+    <string name="achv_bonuses">Отримувані бонуси:\n</string>
+    <string name="achv_title">Титул: </string>
+    <string name="raiting_place_req">Вимоги: </string>
+    <string name="raiting_place_step">Крок: </string>
+    <string name="raiting_place_reward">Нагорода:\n</string>
+    <string name="raiting_place_win">Переможці: </string>
+    <string name="place_email">Пошта: </string>
+    <string name="place_val">Значення: </string>
+    <string name="user_titeles">Титули:</string>
+    <string name="quest_req">Вимоги: </string>
+    <string name="quest_goal">Ціль:\n</string>
+    <string name="quest_step">Крок:\n</string>
+    <string name="quest_reward">Нагорода:\n</string>
+    <string name="quest_exp">Отримуване exp:\n</string>
+    <string name="quest_bonuses">Отримувані бонуси:\n</string>
+    <string name="quest_dont_compl">Завдання не виконано!</string>
+    <string name="quest_update">До оновлення залишилося: </string>
+    <string name="quest_hours"> годин</string>
+    <string name="raiting_req">Вимоги: </string>
+    <string name="raiting_step">Крок: </string>
+    <string name="raiting_reward">Нагорода:\n</string>
+    <string name="raiting_win">Переможці: </string>
+    <string name="view_places">Переглянути місця</string>
+    <string name="buy">Придбати</string>
+    <string name="buy_success">Покупка виконана!</string>
+    <string name="buy_erorr">Будь ласка, спробуйте пізніше</string>
+    <string name="qr_code">QR-Код</string>
+</resources>
